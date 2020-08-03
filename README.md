@@ -1,2 +1,3 @@
 # Twitter-Sentiment-Analysis
-It analyzes a list of tweets about a topic you feed to the python script and it displays a list of tweets with their sentiments and then shows the data in a pie chart.
+The problem in sentiment analysis is classifying the polarity of a given text at the document,sentence, or feature/aspect level .
+• whether the expressed opinion in a document, asentence or an entity feature/aspect is positive,negative, or neutral and it displays a list of tweets with their sentiments and represents output in a pie chart.
